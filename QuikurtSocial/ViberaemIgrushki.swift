@@ -28,20 +28,20 @@ struct ViberaemIgrushki: View {
 
                 TabView(selection: $number) {
                     NavigationLink {
-                        TrecksIgrnwshk(anmg: "ubkjbaivws", igruleaks: KonstantiniNaMeste.banancikPoletel)
+                        TrecksIgrnwshk(anmg: "ubkjbaivws", igruleaks: "")
                     } label: {
                         Image("orbnkan")
                     }
                     .tag(1)
                     NavigationLink {
-                        TrecksIgrnwshk(anmg: "prigucenkimiac", igruleaks: "https://freepolicyourgheim.xyz/red/game/power-keno/")
+                        TrecksIgrnwshk(anmg: "prigucenkimiac", igruleaks: "")
                     } label: {
                         Image("pbwre")
                     }
                     .tag(2)
                     
                     NavigationLink {
-                        TrecksIgrnwshk(anmg: "cisqzbd", igruleaks: "https://freepolicyourgheim.xyz/red/game/baccarat/")
+                        TrecksIgrnwshk(anmg: "cisqzbd", igruleaks: "")
                     } label: {
                         Image("btksa")
                     }
